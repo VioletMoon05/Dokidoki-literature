@@ -58,6 +58,17 @@ label ch0_main:
     mc "Mặc kệ cậu muốn nói gì thì nói..."
 
     s 1q "Ehehe~"
+
+    s 1d "À mà này, hôm nay nhìn cậu có vẻ hào hứng hơn mọi khi đấy nhé!"
+
+    mc "Có gì đâu, chỉ là dạo này tớ đang thử sức tự làm game thôi."
+
+    s 4s "Oa, thật á?! Tuyệt ghê vậy trời! Thế khi nào xong nhớ cho tớ chơi thử đầu tiên đó nha~"
+
+    mc "Biết rồi, để xem cậu có kiên nhẫn đợi được không đã."
+
+    s 1a "Tất nhiên rồi! Tớ sẽ luôn cổ vũ hết mình cho cậu mà!"
+
     show sayori zorder 1 at thide
     hide sayori
 

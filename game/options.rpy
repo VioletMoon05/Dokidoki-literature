@@ -21,7 +21,7 @@ init 9000 python:
 
 
 
-define config.name = "Câu lạc bộ văn học vui nhộn! - Việt Hóa bởi Hoshi"
+define config.name = "Câu lạc bộ văn học vui nhộn! - Remake by VioletMoon (TanTran)"
 
 
 
