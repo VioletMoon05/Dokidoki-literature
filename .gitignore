@@ -1,0 +1,33 @@
+# Ren'Py compiled files and caches
+*.rpyc
+*.rpyb
+*.rpymc
+cache/
+game/cache/
+
+# Save data & user files
+saves/
+game/saves/
+game/firstrun
+
+# Distribution & build outputs (Too large for GitHub)
+dist/
+build/
+
+# Backup and temporary tools
+x-game/
+tools/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
+.vscode/
+.idea/
+
+# Ren'Py logs
+errors.txt
+traceback.txt
+log.txt
