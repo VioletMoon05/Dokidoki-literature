@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://storage.ghost.io/c/50/c6/50c61f91-0165-4605-93bc-f8598149e466/content/images/size/w1200/2025/02/doki-doki-feature.jpg" alt="Doki Doki Literature Club!" width="100%">
+  <img src="https://wallpapers.com/images/featured/ddlc-loyc1dlk2vnvmgbg.jpg" alt="Doki Doki Literature Club!" width="100%">
 
   <h1>DOKI DOKI LITERATURE CLUB!</h1>
 
