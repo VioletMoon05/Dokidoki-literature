@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/698780/capsule_616x353.jpg?t=1681943582" alt="Doki Doki Literature Club!" width="100%">
+  <img src="https://storage.ghost.io/c/50/c6/50c61f91-0165-4605-93bc-f8598149e466/content/images/size/w1200/2025/02/doki-doki-feature.jpg" alt="Doki Doki Literature Club!" width="100%">
 
   <h1>DOKI DOKI LITERATURE CLUB!</h1>
 
